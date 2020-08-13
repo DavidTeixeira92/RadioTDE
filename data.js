@@ -3,7 +3,7 @@ window.audios = [
         title: "While Your Lips Are Still Red",
         artist: "Nigtwish",
         cover: "While-your-lips-are-still-red.gif",
-        file: "while-your-lips-are-still-red.mp3"
+        file: "While-your-lips-are-still-red.mp3"
 
     },
     {
